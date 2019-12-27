@@ -1,5 +1,3 @@
-package src;
-
 public class ComputerFactory {
     Computer create(String processor, int memory){
         Computer computer = new Computer();

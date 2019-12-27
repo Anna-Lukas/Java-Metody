@@ -1,5 +1,3 @@
-package src;
-
 public class Calc {
 
     int addTwoNumbers(int a, int b) {

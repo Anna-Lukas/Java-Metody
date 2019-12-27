@@ -1,5 +1,3 @@
-package src;
-
 public class Computer {
     String proccessor;
     int memory;
